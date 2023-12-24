@@ -68,6 +68,6 @@ Example:- /set_caption 📕 File Name: {filename}
 <b><u>Special Thanks & Developers</b></u> 
 
 »This Theft By Me 😂🙃🙃
-• 😈 <a href=https://t.me/kissu123456>Our-Backup</a>
-• 😈 <a href=https://t.me/kissu_movies_bot>🍿Movies-Bot</a>
+• 🌟 <a href=https://t.me/kissu123456>Our-Backup</a>
+• 🌟 <a href=https://t.me/kissu_movies_bot>🍿Movies-Bot</a>
 """
